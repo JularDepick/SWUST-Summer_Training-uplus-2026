@@ -58,6 +58,12 @@ public:
 		delete firstptr;
 		this->length=(vec.size());
 	}
+	T head_data() {
+	    return (this->head->data);
+    }
+	T tail_data() {
+	    return (this->tail->data);
+    }
 	bool empty() {
 		return !((this->head) && (this->tail) && (length!=0));
 	}
@@ -292,6 +298,18 @@ public:
         target->head=(newcl->head);
         target->tail=(newcl->tail);
         target->length=(newcl->length);
+    }
+    chainList* reverse(bool residual=false) {
+        vector<T> vec=(this->get_vector());
+        reverse(vec.begin(),vec.end());
+        this.rebuild(vec,residual);
+        return this;
+    }
+    chainList* reverse(chainList* target,bool residual=false) {
+        vector<T> vec=(this->get_vector());
+        reverse(vec.begin(),vec.end());
+        target.rebuild(vec,residual);
+        return target;
     }
 };
 
