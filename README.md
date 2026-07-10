@@ -2,7 +2,7 @@
 
 # SWUST-Summer_Training-uplus-2026
 
-[![Version](https://img.shields.io/badge/Version-v26.7.10-red)](https://github.com/JularDepick/My-Dev-Assist-Bats/tree/v26.7.9)
+[![Version](https://img.shields.io/badge/Version-v26.7.10--n2-red)](https://github.com/JularDepick/SWUST-Summer_Training-uplus-2026/tree/v26.7.10-n2)
 [![Copyright](https://img.shields.io/badge/Copyright-JularDepick-0066AA)](./COPYRIGHT)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](./)
