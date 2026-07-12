@@ -21,7 +21,7 @@
 
 # 目录结构
 ```
-dist/
+src/
 ├── assist.hpp              # 工具类（TIMER计时器、rdint随机数）
 ├── indexGraph.hpp          # 有向图类（邻接表+反向邻接表+边集，Dijkstra/Bellman-Ford/BFS/DFS）
 ├── README.md               # 本介绍文档
