@@ -29,6 +29,7 @@
 
 # 实验列表
 - [实验一：高级数据结构实现](./experiments/01/README.md)
+- [实验二：带用户界面的数据结构实现](./experiments/02/README.md)
 
 
 # 常见问题
@@ -37,4 +38,3 @@
 
 > Dev-C++ 5.11 创建的源代码文件使用的是 `ANSI` 字符集, 可能无法被使用 `UTF-8` 字符集的编辑器识别
 
-如遇到该问题请**在备份全量文件后**运行修复脚本 `scripts/fixCharset-2-UTF-8.py` ,回退操作则运行 `scripts/fixCharset-2-ANSI.py`
