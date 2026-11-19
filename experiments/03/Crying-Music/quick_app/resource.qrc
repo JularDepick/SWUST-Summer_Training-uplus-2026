@@ -1,0 +1,87 @@
+<RCC>
+    <qresource prefix="/">
+        <file>favicon.png</file>
+
+        <file>assets/iconfont/function/like.svg</file>
+        <file>assets/iconfont/function/liked.svg</file>
+        <file>assets/iconfont/function/delete.svg</file>
+        <file>assets/iconfont/function/download.svg</file>
+        <file>assets/iconfont/function/addbtn.svg</file>
+        <file>assets/iconfont/function/addnew.svg</file>
+        <file>assets/iconfont/function/addinto.svg</file>
+        <file>assets/iconfont/function/addfiles.svg</file>
+        <file>assets/iconfont/function/add4dir.svg</file>
+        <file>assets/iconfont/function/batch.svg</file>
+        <file>assets/iconfont/function/close.svg</file>
+        <file>assets/iconfont/function/closedown.svg</file>
+        <file>assets/iconfont/function/closeup.svg</file>
+        <file>assets/iconfont/function/checked_stark.svg</file>
+        <file>assets/iconfont/function/check_mark.svg</file>
+        <file>assets/iconfont/function/more.svg</file>
+        <file>assets/iconfont/function/jump2top.svg</file>
+        <file>assets/iconfont/function/jump2playing.svg</file>
+
+        <file>assets/iconfont/listview/checked_status.svg</file>
+        <file>assets/iconfont/listview/upsort.svg</file>
+        <file>assets/iconfont/listview/downsort.svg</file>
+        <file>assets/iconfont/listview/justsort.svg</file>
+
+        <file>assets/iconfont/leftsidebar/home.svg</file>
+        <file>assets/iconfont/leftsidebar/home_ed.svg</file>
+        <file>assets/iconfont/leftsidebar/likedlist.svg</file>
+        <file>assets/iconfont/leftsidebar/likedlist_ed.svg</file>
+        <file>assets/iconfont/leftsidebar/recentlist.svg</file>
+        <file>assets/iconfont/leftsidebar/recentlist_ed.svg</file>
+        <file>assets/iconfont/leftsidebar/locallist.svg</file>
+        <file>assets/iconfont/leftsidebar/locallist_ed.svg</file>
+        <file>assets/iconfont/leftsidebar/spread.svg</file>
+        <file>assets/iconfont/leftsidebar/spreaded.svg</file>
+        <file>assets/iconfont/leftsidebar/settings.svg</file>
+        <file>assets/iconfont/leftsidebar/theme.svg</file>
+
+        <file>assets/iconfont/topnavbar/flowized.svg</file>
+        <file>assets/iconfont/topnavbar/minimized.svg</file>
+        <file>assets/iconfont/topnavbar/maximized.svg</file>
+        <file>assets/iconfont/topnavbar/normalized.svg</file>
+        <file>assets/iconfont/topnavbar/closewin.svg</file>
+        <file>assets/iconfont/topnavbar/backward.svg</file>
+        <file>assets/iconfont/topnavbar/forward.svg</file>
+        <file>assets/iconfont/topnavbar/refresh.svg</file>
+        <file>assets/iconfont/topnavbar/search.svg</file>
+
+        <file>assets/iconfont/playerbar/lyricsopen.svg</file>
+        <file>assets/iconfont/playerbar/lyricsclose.svg</file>
+        <file>assets/iconfont/playerbar/pause.svg</file>
+        <file>assets/iconfont/playerbar/play.svg</file>
+        <file>assets/iconfont/playerbar/lastone.svg</file>
+        <file>assets/iconfont/playerbar/nextone.svg</file>
+        <file>assets/iconfont/playerbar/randomsort.svg</file>
+        <file>assets/iconfont/playerbar/listsort.svg</file>
+        <file>assets/iconfont/playerbar/cycleone.svg</file>
+        <file>assets/iconfont/playerbar/cyclelist.svg</file>
+        <file>assets/iconfont/playerbar/sound.svg</file>
+        <file>assets/iconfont/playerbar/soundless.svg</file>
+        <file>assets/iconfont/playerbar/sound.sub.svg</file>
+        <file>assets/iconfont/playerbar/soundless.sub.svg</file>
+        <file>assets/iconfont/playerbar/lyricsflow.svg</file>
+        <file>assets/iconfont/playerbar/playerlist.svg</file>
+
+        <file>assets/iconfont/vip/vip1.svg</file>
+        <file>assets/iconfont/vip/vip2.svg</file>
+        <file>assets/iconfont/vip/vip3.svg</file>
+        <file>assets/iconfont/vip/vip4.svg</file>
+        <file>assets/iconfont/vip/vip5.svg</file>
+        <file>assets/iconfont/vip/vip6.svg</file>
+        <file>assets/iconfont/vip/vip7.svg</file>
+        <file>assets/iconfont/vip/vip8.svg</file>
+        <file>assets/iconfont/vip/vip9.svg</file>
+        <file>assets/iconfont/vip/vip10.svg</file>
+        <file>assets/iconfont/vip/vipcard.svg</file>
+        <file>assets/iconfont/vip/viptip.svg</file>
+
+        <file alias="licenses/COPYRIGHT">COPYRIGHT</file>
+        <file alias="licenses/LICENSE">LICENSE</file>
+        <file alias="licenses/LICENSE.FDL">LICENSE.FDL</file>
+        <file alias="licenses/LICENSE.Qt">LICENSE.Qt</file>
+    </qresource>
+</RCC>
